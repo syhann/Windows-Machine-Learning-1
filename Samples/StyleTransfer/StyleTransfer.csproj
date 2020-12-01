@@ -192,7 +192,7 @@
   <ItemGroup>
     <Reference Include="StyleTransferEffectComponent, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>VideoEffect\StyleTransferEffectComponent\x64\Release\StyleTransferEffectComponent\StyleTransferEffectComponent.winmd</HintPath>
+      <HintPath>x64\Debug\StyleTransferEffectComponent\StyleTransferEffectComponent.winmd</HintPath>
     </Reference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
